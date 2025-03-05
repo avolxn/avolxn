@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Vladislav Eldashov 
+**Data Scientist and Machine Learning engineer | Moscow, Russia**  
 
-<!--
-**avolxn/avolxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Languages**: Python · C++  
+- **ML**: PyTorch · Transformers · CatBoost · Optuna · scikit-learn  
+- **MLOps**: Docker · Kubernetes · MLflow · DVC · Airflow · FastAPI
+- **Tools**: Git · Snakemake · Hydra · Streamlit  
+- **Visualization**: Matplotlib · Seaborn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Education  
+**B.Sc. in Applied Mathematics**  
+**B.Sc. in Computer Science and Engineering**  
+National University of Science and Technology MISIS 🎓  
+
+---
+
+## ✨ Contacts 
+📱 Telegram: [avolxn](https://t.me/avolxn)  
+📧 Email: [vlad.eldashov2303@mail.ru](mailto:vlad.eldashov2303@mail.ru)  
+💻 Github: [avolxn](https://github.com/avolxn)  
