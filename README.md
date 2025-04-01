@@ -13,7 +13,7 @@
 
 ## 📚 Education  
 **Applied Mathematics '25**  
-**Computer Science and Engineering '28**  
+**Intelligent Data Analysis Systems '28**  
 National University of Science and Technology MISIS 🎓  
 
 ---
