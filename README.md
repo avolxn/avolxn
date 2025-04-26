@@ -4,8 +4,9 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python · C++
-- **ML**: PyTorch · Transformers · CatBoost · Optuna · scikit-learn  
+- **Languages**: Python · SQL · C++
+- **ML**: PyTorch · scikit-learn · CatBoost · Optuna
+- **NLP**: Transformers · LangChain · LLM · RAG · Agents
 - **MLOPS/Tools**: Git · Docker · Kubernetes · MLflow · Airflow
 - **Visualization**: Matplotlib · Seaborn  
 
