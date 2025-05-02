@@ -4,16 +4,15 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python · SQL · C++
-- **ML**: PyTorch · scikit-learn · CatBoost · Optuna
-- **NLP**: Transformers · LangChain · LLM · RAG · Agents
-- **MLOPS/Tools**: Git · Docker · Kubernetes · MLflow · Airflow
+- **Languages**: Python · SQL
+- **ML**: PyTorch · scikit-learn · CatBoost · Optuna · AutoML
+- **NLP**: LLM · RAG · Agents · LangChain · Transformers · FAISS · peft
+- **Tools**: Git · Docker
 - **Visualization**: Matplotlib · Seaborn  
 
 ---
 
 ## 📚 Education  
-**Applied Mathematics '25**  
 **Intelligent Data Analysis Systems '28**  
 National University of Science and Technology MISIS 🎓  
 
