@@ -1,5 +1,5 @@
 # 👨‍💻 Vladislav Eldashov 
-**Machine Learning engineer | Moscow, Russia**  
+**NLP ML Engineer | Moscow, Russia**  
 
 ---
 
